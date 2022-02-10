@@ -1,7 +1,6 @@
-ul {
-  list-style-type: decimal;
-  list-style-position: outside;
+h1{
+  color: purple;
 }
-.red {
-  color: red;
+h2 {
+  color: grey;
 }
