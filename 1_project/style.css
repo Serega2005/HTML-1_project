@@ -1,0 +1,7 @@
+ul {
+  list-style-type: decimal;
+  list-style-position: outside;
+}
+.red {
+  color: red;
+}
